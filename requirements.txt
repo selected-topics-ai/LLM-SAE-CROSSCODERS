@@ -7,3 +7,4 @@ tqdm==4.67.1
 transformers==4.51.3
 sae-lens==5.9.1
 openai==1.75.0
+ipywidgets==8.1.6
